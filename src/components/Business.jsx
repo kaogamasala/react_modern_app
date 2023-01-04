@@ -26,13 +26,11 @@ const Business = () => {
       {/* Business left side */}
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>
-          You do the business, <br className="sm:block hidden" /> we’ll handle
-          the money.
+          You do the business, <br className="sm:block hidden" /> we’ll handle the Marketing.
         </h2>
         <p className={`${styles. paragraph} max-w-[470px] mt-5`}>
-          With the right credit card, you can improve your financial life by
-          building credit, earning rewards and saving money. But with hundreds
-          of credit cards on the market.
+          By leveraging the products our team offers and implementing the right marketing initiatives, <br />
+          you can build credibility with your customers, earn rewards, and increase sales while reducing costs.
         </p>
         
         <Button styles={`mt-10`} />

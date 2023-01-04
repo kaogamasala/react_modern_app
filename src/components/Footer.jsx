@@ -15,7 +15,7 @@ const Footer = () => (
         
         {/* Subtitle */}
          <p className={`${styles.paragraph} mt-4 max-w-[310px]`}>
-          A new way to make the payments easy, reliable and secure.
+          A new way to achieve easy, reliable, and secure business growth.
         </p>
       </div>
 
@@ -43,7 +43,7 @@ const Footer = () => (
     {/* Copyright */}
     <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3F3E45]">
       <p className="font-poppins font-normal text-[18px] leading-[27pxx] text-white">
-      Copyright Ⓒ 2022 HooBank. All Rights Reserved.
+      Copyright Ⓒ 2022 Retaily. All Rights Reserved.
       </p>
       
       {/* Socialmedia Icon */}

@@ -35,14 +35,12 @@ const Hero = () => {
 
         {/* Main Title-2 */}
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-          Payment Method.
+          Marketing Method.
         </h1>
 
         {/* paragraph */}
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Our team of experts uses a methodology to identify the credit cards
-          most likely to fit your needs. We examine annual percentage rates,
-          annual fees.
+          Our team of experts will grow your business with marketing initiatives that best fit your business challenges.
         </p>
       </div>
 
